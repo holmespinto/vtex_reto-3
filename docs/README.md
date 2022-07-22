@@ -20,6 +20,7 @@ Para la implementacion  del schema se tuvieron encueta la siguiente documentaci√
 2. https://react-jsonschema-form.readthedocs.io/en/latest/usage/oneof/
 
 Finalmente, la configuraci√≥n del schema puede obserarla en el siguiente link
+
 ([https://vtex.io/docs/components/all/vtex.search-result@3.56.1/](https://github.com/holmespinto/vtex_reto-3/blob/master/react/components/schema/promociones-schema.ts)). 
 
 ### `IMPLEMENTACION DE LAS GRILLAS EN EL COMPONENTE` 
