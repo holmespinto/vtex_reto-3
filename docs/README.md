@@ -8,9 +8,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- DOCS-IGNORE:end -->
 
-Under the app's name, you should explain the topic, giving a **brief description** of its **functionality** in a store when installed.
-
-Next, **add media** (either an image of a GIF) with the rendered components, so that users can better understand how the app works in practice. 
+Para la implementación de la tarea no3 se tuvo en cuanta la documentacíon correspondiente al react-jsonschema 
 
  ![principa](https://user-images.githubusercontent.com/70826804/180468251-b0128df5-c27b-49dd-b635-9962e00dd49c.png)
 
