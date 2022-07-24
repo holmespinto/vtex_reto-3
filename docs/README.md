@@ -35,7 +35,7 @@ el cual permite cambiar las pociosiones de la información seleccionada en el si
 
  En el archivo CustomGridItem.tsx [![CustomGridItem.tsx](https://github.com/holmespinto/vtex_reto-3/blob/master/react/components/CustomGridItem.tsx)] se encuentra configurada la card que va a permitir mostrar la información de cada elemento. Existen dos tipos de card:Small y Big, en la implementación de este archivo se configuró de tal manera que ambas puedan ser pintadas por React desde este componente.
  
- En el archivo pincipal,  CustomGridItem.tsx [![CustomGridOpcion.tsx]https://github.com/holmespinto/vtex_reto-3/blob/master/react/components/PromotionGrid.tsx]
+ En el archivo pincipal,  [![PromotionGrid.tsx](https://github.com/holmespinto/vtex_reto-3/blob/master/react/components/PromotionGrid.tsx)]
  por medio de un switch va tomando cada caso y lo va asignando al componente según la opción que fue configurada en el site editor. 
  
 ### `CONCLUCIÓN`
