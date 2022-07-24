@@ -23,7 +23,7 @@ La configuración del schema puede obserarla en el siguiente link
 
 ([https://vtex.io/docs/components/all/vtex.search-result@3.56.1/](https://github.com/holmespinto/vtex_reto-3/blob/master/react/components/schema/promociones-schema.ts)). 
 
-### `IMPLEMENTACION DE LAS GRILLAS EN EL COMPONENTE` 
+### `IMPLEMENTACIÓN` 
 
 1. Ajustamos el componente para la grilla como muestra el requerimiento, inicial. Para ello, se implementaron sos css y los compoonente, esta parte inicial quedo como se muestra en la siguiente imagen:
 
