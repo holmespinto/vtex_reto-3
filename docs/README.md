@@ -33,7 +33,7 @@ Para esta implementación se creó el componente
 [![CustomGridOpcion.tsx](https://github.com/holmespinto/vtex_reto-3/blob/master/react/components/CustomGridOpcion.tsx)],
 el cual permite cambiar las pociosiones de la información seleccionada en el site editor. Este componente posee tres espacios: izquierda, centro, derecha, donde la información va a trasladarse de a travé de esstos.De esta manera, la configuración permite que cada una de las seis opciones se traslade por cada una de estas tres configuraciones, permitiendo que cada elemento, segun la seleccion del cliente, se convierta en relevante para en la grilla.  
 
- En el archivo CustomGridItem.tsx [![CustomGridOpcion.tsx](https://github.com/holmespinto/vtex_reto-3/blob/master/react/components/CustomGridItem.tsx)] se encuentra configurada la card que va a permitir mostrar la información de cada elemento. Existen dos tipos de card:Small y Big, en la implementación de este archivo se configuró de tal manera que ambas puedan ser pintadas por React desde este componente.
+ En el archivo CustomGridItem.tsx [![CustomGridItem.tsx](https://github.com/holmespinto/vtex_reto-3/blob/master/react/components/CustomGridItem.tsx)] se encuentra configurada la card que va a permitir mostrar la información de cada elemento. Existen dos tipos de card:Small y Big, en la implementación de este archivo se configuró de tal manera que ambas puedan ser pintadas por React desde este componente.
  
  En el archivo pincipal,  CustomGridItem.tsx [![CustomGridOpcion.tsx]https://github.com/holmespinto/vtex_reto-3/blob/master/react/components/PromotionGrid.tsx]
  por medio de un switch va tomando cada caso y lo va asignando al componente según la opción que fue configurada en el site editor. 
