@@ -8,28 +8,28 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- DOCS-IGNORE:end -->
 
-Para la implementación de la tarea no3 se tuvo en cuenta la documentación correspondiente al react-jsonschema 
+Para la implementación de la tarea No3 se tuvo en cuenta la documentación correspondiente al react-jsonschema 
 
  ![principa](https://user-images.githubusercontent.com/70826804/180468251-b0128df5-c27b-49dd-b635-9962e00dd49c.png)
 
-## Configuration 
+## Configuración
 
-Para la implementacion  del schema se tuvieron encueta la siguiente documentación
+Para la implementación  del schema se tuvó encueta la siguiente documentación:
 
 1. https://react-jsonschema-form.readthedocs.io/en/latest/usage/dependencies/
 2. https://react-jsonschema-form.readthedocs.io/en/latest/usage/oneof/
 
-La configuración del schema puede obserarla en el siguiente link
+La configuración del schema puede obserarse en el siguiente link
 
 ([https://vtex.io/docs/components/all/vtex.search-result@3.56.1/](https://github.com/holmespinto/vtex_reto-3/blob/master/react/components/schema/promociones-schema.ts)). 
 
 ### `IMPLEMENTACIÓN` 
 
-1. Ajustamos el componente para la grilla como muestra el requerimiento, inicial. Para ello, se implementaron sos css y los compoonente, esta parte inicial quedo como se muestra en la siguiente imagen:
+1. Ajustamos el componente para la grilla como muestra el requerimiento inicial. Para ello, se implementaron los css y los compoonente, esta parte inicial quedó como se muestra en la siguiente imagen:
 
 ![grid_ciclo](https://user-images.githubusercontent.com/70826804/180645362-b639beac-f8fd-4c8b-93d2-736e213fd94f.png)
 
-Para esta implementación se creo el componente
+Para esta implementación se creó el componente
 [![CustomGridOpcion.tsx](https://github.com/holmespinto/vtex_reto-3/blob/master/react/components/CustomGridOpcion.tsx)],
 el cual permite cambiar las pociosiones de la información seleccionada en el site editor. Este componente posee tres espacios: izquierda, centro, derecha, donde la información va a trasladarse de a travé de esstos.De esta manera, la configuración permite que cada una de las seis opciones se traslade por cada una de estas tres configuraciones, permitiendo que cada elemento, segun la seleccion del cliente, se convierta en relevante para en la grilla.  
 
