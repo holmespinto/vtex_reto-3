@@ -29,8 +29,7 @@ const promotionSchema = {
               type: "string"
             },
             link: {
-                type: "string",
-                enum: ["Desktop", "Mobile"]
+                type: "string"
             }
         }
       }
