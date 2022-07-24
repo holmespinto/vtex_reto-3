@@ -27,6 +27,6 @@ Finalmente, la configuración del schema puede obserarla en el siguiente link
 
 1. Ajustamos el componente para la grilla como muestra el requerimiento, inicial. Para ello, se implementaron sos css y los compoonente, esta parte inicial quedo como se muestra en la siguiente imagen:
 
-![grid_1_01](https://user-images.githubusercontent.com/70826804/180622576-182c30cd-361d-49b9-ae06-e8e5026f4a27.png)
+![grid_ciclo](https://user-images.githubusercontent.com/70826804/180628322-59c9098b-5349-4aad-b5e8-a1b88912f5ce.png)
 
 
