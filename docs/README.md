@@ -31,8 +31,8 @@ La configuración del schema puede obserarla en el siguiente link
 
 ### `CONCLUCIÓN`
 
-Finalmente, como desarrollador se aprendió a utilizar dependencias en los schemas para la asignación de variables, utilizando un select, también se tuvo en cuenta la implementación de los css para el caso del orden de cada posición, sin embargo, este no fue el caso aplicado en este desarrollo, pues, se consideró las opciones de un switch en react para cambiar las posiciones de cada información.  La ventaja de esta implementación, es que agregando una variable en el schema, donde se permita al cliente escoger entre las opciones: "Orden Secuencial", "Orden Aleatorio", "Primera información fija", entre otros. 
-Por otra parte, tratandoce de la configuración en los css, para futuras contribuciones se podría implementar sin afectar lo que se ha realizado hasta ahora, solo se tendría que agregar, dentro  del css, las nuevas líneas de código que permitan hacer los cambios de posición del elemento.
+Finalmente, como desarrollador se aprendió a utilizar dependencias en los schemas para la asignación de variables, utilizando los elementos del select; también, se tuvo en cuenta la implementación de los css para el orden de cada posición, sin embargo, este no fue el caso aplicado en este desarrollo, pues, se consideró las opciones de un switch en react para cambiar las posiciones de cada información.  La ventaja de esta implementación, es que agregando una variable en el schema, donde se permita al cliente escoger entre las opciones: "Orden Secuencial", "Orden Aleatorio", "Primera información fija", entre otros. 
+Por otra parte, tratandoce de la configuración en los css, para futuras contribuciones, se podría implementar sin afectar lo que se ha realizado hasta ahora, solo se tendría que agregar, dentro  del css, las nuevas líneas de código que permitan hacer los cambios de posición del elemento.
 
 
 
