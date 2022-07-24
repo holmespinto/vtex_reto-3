@@ -3,7 +3,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import promotionSchema from './schema/promociones-schema'
 import styles from "./css/style.css"
-import CustomGridOpcionOne from './CustomGridOpcionOne'
+import CustomGridOpcion from './CustomGridOpcion'
 
 type Props = {
   colecciones: {
@@ -32,7 +32,7 @@ const PromotionGrid =({
                                 switch (opcion) {
                                     case 1:
                                         return (<>
-                                          <CustomGridOpcionOne
+                                          <CustomGridOpcion
                                           colecciones={colecciones}
                                           opcion= {opcion}
                                           numimg= {1}
@@ -41,7 +41,7 @@ const PromotionGrid =({
                                          </>)
                                         case 2:
                                         return (<>
-                                          <CustomGridOpcionOne
+                                          <CustomGridOpcion
                                           colecciones={colecciones}
                                           opcion= {opcion}
                                           numimg= {1}
@@ -49,7 +49,7 @@ const PromotionGrid =({
                                          />
                                          </>)
                                          default:return (<>
-                                          <CustomGridOpcionOne
+                                          <CustomGridOpcion
                                           colecciones={colecciones}
                                           opcion= {opcion}
                                           numimg= {1}

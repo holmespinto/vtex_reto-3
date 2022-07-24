@@ -8,7 +8,7 @@ type cartPropsSmall = {
   cardsize:string
   colecciones:any
 }
-const CustomGridItemOne= ({
+const CustomGridOpcion= ({
   numimg,
   opcion,
   cardsize,
@@ -82,4 +82,4 @@ const CustomGridItemOne= ({
 
 }
 
-export default CustomGridItemOne
+export default CustomGridOpcion
