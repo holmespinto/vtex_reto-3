@@ -19,7 +19,7 @@ Para la implementacion  del schema se tuvieron encueta la siguiente documentaci�
 1. https://react-jsonschema-form.readthedocs.io/en/latest/usage/dependencies/
 2. https://react-jsonschema-form.readthedocs.io/en/latest/usage/oneof/
 
-Finalmente, la configuración del schema puede obserarla en el siguiente link
+La configuración del schema puede obserarla en el siguiente link
 
 ([https://vtex.io/docs/components/all/vtex.search-result@3.56.1/](https://github.com/holmespinto/vtex_reto-3/blob/master/react/components/schema/promociones-schema.ts)). 
 
@@ -28,5 +28,11 @@ Finalmente, la configuración del schema puede obserarla en el siguiente link
 1. Ajustamos el componente para la grilla como muestra el requerimiento, inicial. Para ello, se implementaron sos css y los compoonente, esta parte inicial quedo como se muestra en la siguiente imagen:
 
 ![grid_ciclo](https://user-images.githubusercontent.com/70826804/180628322-59c9098b-5349-4aad-b5e8-a1b88912f5ce.png)
+
+### `CONCLUCIÓN`
+
+Finalmente, como desarrollador se aprendió a utilizar dependencias en los schemas para la asignación de variables, utilizando un select, tambien se tuvo encuenta la implementacón de los css para el caso del orden de cada posición, sin embargo, este no fue el caso aplicado en este desarrollo, pues, se considero la opciones de un switch en react para cambiar las posiciones de cada información. Para futuras contribuciones se podria implementar sin afectar lo que se ha realizado hasta ahora, solo se tendría que agregar, en el css, las nuevas lineas de código que permitan hacer los cambios de posición del  elemento.
+
+
 
 
