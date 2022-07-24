@@ -35,8 +35,9 @@ el cual permite cambiar las pociosiones de la información seleccionada en el si
 
  En el archivo CustomGridItem.tsx [![CustomGridOpcion.tsx](https://github.com/holmespinto/vtex_reto-3/blob/master/react/components/CustomGridItem.tsx)] se encuentra configurada la card que va a permitir mostrar la información de cada elemento. Existen dos tipos de card:Small y Big, en la implementación de este archivo se configuró de tal manera que ambas puedan ser pintadas por React desde este componente.
  
+ En el archivo pincipal,  CustomGridItem.tsx [![CustomGridOpcion.tsx]https://github.com/holmespinto/vtex_reto-3/blob/master/react/components/PromotionGrid.tsx]
+ por medio de un switch va tomando cada caso y lo va asignando al componente según la opción que fue configurada en el site editor. 
  
-
 ### `CONCLUCIÓN`
 
 Finalmente, como desarrollador se aprendió a utilizar dependencias en los schemas para la asignación de variables, utilizando los elementos del select; también, se tuvo en cuenta la implementación de los css para el orden de cada posición, sin embargo, este no fue el caso aplicado en este desarrollo, pues, se consideró las opciones de un switch en react para cambiar las posiciones de cada información.  La ventaja de esta implementación, es que agregando una variable en el schema, donde se permita al cliente escoger entre las opciones: "Orden Secuencial", "Orden Aleatorio", "Primera información fija", entre otros. 
