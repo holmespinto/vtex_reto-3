@@ -27,7 +27,7 @@ La configuración del schema puede obserarla en el siguiente link
 
 1. Ajustamos el componente para la grilla como muestra el requerimiento, inicial. Para ello, se implementaron sos css y los compoonente, esta parte inicial quedo como se muestra en la siguiente imagen:
 
-![grid_ciclo](https://user-images.githubusercontent.com/70826804/180628322-59c9098b-5349-4aad-b5e8-a1b88912f5ce.png)
+![grid_ciclo](https://user-images.githubusercontent.com/70826804/180645362-b639beac-f8fd-4c8b-93d2-736e213fd94f.png)
 
 Para esta implementación se creo el componente
 [![CustomGridOpcion.tsx](https://github.com/holmespinto/vtex_reto-3/blob/master/react/components/CustomGridOpcion.tsx)],
