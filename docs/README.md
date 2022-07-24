@@ -29,6 +29,11 @@ La configuración del schema puede obserarla en el siguiente link
 
 ![grid_ciclo](https://user-images.githubusercontent.com/70826804/180628322-59c9098b-5349-4aad-b5e8-a1b88912f5ce.png)
 
+Para esta implementación se creo el componente
+![CustomGridOpcion.tsx]([https://github.com/holmespinto/vtex_reto-3/blob/master/react/components/CustomGridOpcion.tsx)],
+el cual permite cambiar las pociosiones de la información seleccionada en el site editor. Este componente posee tres espacios: izquierda, centro, derecha, donde la información va a trasladarse de a travé de esstos.De esta manera, la configuración permite que cada una de las seis opciones se traslade por cada una de estas tres configuraciones, permitiendo que cada elemento, segun la seleccion del cliente, se convierta en relevante para en la grilla.  
+
+
 ### `CONCLUCIÓN`
 
 Finalmente, como desarrollador se aprendió a utilizar dependencias en los schemas para la asignación de variables, utilizando los elementos del select; también, se tuvo en cuenta la implementación de los css para el orden de cada posición, sin embargo, este no fue el caso aplicado en este desarrollo, pues, se consideró las opciones de un switch en react para cambiar las posiciones de cada información.  La ventaja de esta implementación, es que agregando una variable en el schema, donde se permita al cliente escoger entre las opciones: "Orden Secuencial", "Orden Aleatorio", "Primera información fija", entre otros. 
