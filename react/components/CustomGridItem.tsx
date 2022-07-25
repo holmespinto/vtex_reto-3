@@ -2,9 +2,9 @@ import React from 'react';
 import styles from "./css/style.css"
 type cartPropsSmall = {
   numimg:number,
-  opcion:number
-  cardsize:string
-  colecciones:any
+  opcion:number,
+  cardsize:string,
+  colecciones:any,
 }
 const CustomGridItem= ({
   numimg,
@@ -18,7 +18,9 @@ const CustomGridItem= ({
   <div className={styles[`card${cardsize}__1--${opcion}`]}>
     <div className={styles[gridContainer]}>
     <div className={styles[gridElementOne]}>
-    {(colecciones || []).map((item:any, index:number) => {
+    {
+    (colecciones.length>0) ?
+    (colecciones || []).map((item:any, index:number) => {
       return (index===numimg)?<>
              <div className={styles["card"]} >
           <div className="flex flex-column"></div>
@@ -30,7 +32,9 @@ const CustomGridItem= ({
       </div>
       </div>
       </>:''
-    })}</div></div>
+    })
+    :''
+    }</div></div>
 
     </div></>)
 
