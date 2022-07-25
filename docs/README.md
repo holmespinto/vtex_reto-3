@@ -14,7 +14,7 @@ Para la implementación de la tarea No3 se tuvo en cuenta la documentación corr
 
 ## Configuración
 
-Para la implementación  del schema se tuvó encueta la siguiente documentación:
+Para la implementación  del schema se tuvó encuenta la siguiente documentación:
 
 1. https://react-jsonschema-form.readthedocs.io/en/latest/usage/dependencies/
 2. https://react-jsonschema-form.readthedocs.io/en/latest/usage/oneof/
